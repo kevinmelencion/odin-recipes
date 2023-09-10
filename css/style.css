@@ -1,0 +1,18 @@
+body {
+    font-family: Courier, monospace;
+    background-color: #fbf6ed;
+}
+
+img {
+    height: 512px;
+    width: auto;
+}
+
+.main-header {
+    text-align: center;
+}
+
+#hero-banner {
+    height: auto;
+    width: auto;
+}
